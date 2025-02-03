@@ -1,5 +1,10 @@
 # Martian-Core-Analysis
 
+## Deliverables
+- The final code notebook (.ipynb) file is uploaded in the Code folder
+- All the .csv files (for dataset) can be found in the Code folder.
+-  Document containing the project report and the visualisation of martian core and wave propagation has beeen attached here.
+
 ## Module 6 - Seismic Data Classification and Shadow Zone Prediction
 - *Objective*: This module focuses on extracting key features from seismic waveforms and using them for shadow zone classification on Mars. The classification helps in identifying whether a station falls within a shadow zone, where seismic waves are absent due to the Earth's or Mars' core.
   
